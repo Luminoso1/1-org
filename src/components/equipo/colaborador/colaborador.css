@@ -1,0 +1,58 @@
+.card{
+    background-color: #fff;
+    width: 250px;
+    height: auto;
+    border-radius: 10px;
+    background-color: #FFF;
+
+    
+    
+    /* Drop Cards */
+    box-shadow: 5px 5px 15px 0px rgba(0, 0, 0, 0.08);
+    /* margin-bottom: 20px; */
+
+   position: relative;
+    margin-bottom: 15px;
+}
+
+.card__head{
+    border-radius: 10px 10px 0 0;
+    height: 90px;
+    
+}
+
+.card__head img{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    position: relative;
+    bottom: -30px;
+    
+    
+}
+
+.card__info{
+    margin-top: 100px;
+    font-family: 'Montserrat';
+}
+
+.card__info h4{
+    color: #6278F7;
+    font-size: 18px;
+    font-weight: 600;
+    
+    margin: 0;
+}
+
+.card__info h5{
+    
+    margin-top: 10px;
+    font-size: 16px;
+}
+
+.eliminar{
+    font-size: x-large;
+    position: absolute;
+    top: -10px;
+    right: -10px;
+}

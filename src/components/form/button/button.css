@@ -1,0 +1,18 @@
+.btn-form{
+    width: 10.4375rem;
+    height: 5rem;
+    margin: 1rem 0 1.75rem 0;
+    padding: 1.75rem 1.81rem;
+    border-radius: 0.625rem;
+    font-family: 'Montserrat', serif;
+    cursor: pointer;
+    background-color: #6278F7;
+    border: none;
+    color: #FFF;
+    font-size: 1.125rem;
+    font-weight: 700;
+}
+
+.btn-form:hover{
+    color: #95FFD4;
+}
